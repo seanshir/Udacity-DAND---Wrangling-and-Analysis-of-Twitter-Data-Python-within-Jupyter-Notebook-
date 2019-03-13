@@ -1,4 +1,4 @@
-# Wrangling Twitter Archived Dataset: WeRateDogs
+# Wrangling Twitter Archived Dataset: [WeRateDogs](https://twitter.com/dog_rates?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 During this data wrangling project, three different data sources were gathered, assessed the quality and tidiness of the data, cleaned by using Python and its libraries within Jupyter Notebook platform, and finally the cleaned version of the data sources were merged by using an inner join to have the dataset ready for the next portion of the project which was the data analysis and visualization of the findings/insights.
 The first data source, twitter_archive_enhanced, was given by Udacity in the form of a csv file. This dataset contained basic tweet data such as tweet ID, timestamp, text, etc. for all 5000+ of tweets as archived in the WeRateDogs Twitter account. 
