@@ -29,3 +29,9 @@ Tidiness Issues:
 
 After this, the final step of data wrangling project was to clean the data by addressing each of the quality and tidiness issues identified as above in the assessment step.   
 Lastly, the cleaned datasets were combined by using an inner join to create a new dataset which was called twitter_archive_master. It should be noted that the cleaned version of the three original datasets were stored in a folder called “Stored_Clean_Data” to keep tidiness of the data, as multiple tables were required.  
+
+## File Descriptions
+- wrangle_act.ipynb: python notebook describing steps taken 
+- wrangle_report.pdf: Report summary of wrangling part 
+- act_report.pdf: Report summary of analysis and visualizations perfomed on the wrangled data   
+
